@@ -6,11 +6,11 @@ hobby interests or for school.
 
 Geometry Exploration
 --------------------
-
+[spline_offset](spline_offset.ipynb)
 Calculus II
 -----------
-_`spline_offset.ipynb`
+
 
 CHP 9 Series
 ************
-_`Calc_2_chptr_9.ipynb`
+[Chapter 9.1](Calc_2_chptr_9.ipynb)
